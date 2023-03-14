@@ -1,9 +1,9 @@
 # Académie Phocéenne
-Technologies utilisées :
+Technologies utilisées 🛠 :
 - Wordpress
 - Elementor
 
 Site de l'académie Phocéenne : <br/>
 https://academie-phoceenne.fr/
 
-L'académie Phocéenne est un dojo qui enseigne les art martiaux à Marseille.
+L'académie Phocéenne est un dojo qui enseigne certains art martiaux, le Ki Taïso et le Shiatsu à Marseille.
